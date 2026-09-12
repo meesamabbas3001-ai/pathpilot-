@@ -1,0 +1,7 @@
+{
+  "name": "PathPilot",
+  "description": "AI-powered Degree, Skills & Career Path Finder. Discover degrees, careers, and a practical path built around YOU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

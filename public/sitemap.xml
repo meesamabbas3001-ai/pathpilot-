@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/degrees</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/skills</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/guides</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/assessment</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Degree Category URLs -->
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/degrees/technology</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/degrees/engineering</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/degrees/business-finance</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/degrees/healthcare</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <!-- Author Pages -->
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/authors/tariq-jamil</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/authors/ayesha-malik</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/authors/faisal-rehman</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ais-dev-z5tlzcwhjcufblaayffuhy-922101436426.asia-southeast1.run.app/authors/zoya-khan</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
